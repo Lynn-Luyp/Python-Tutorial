@@ -21,20 +21,21 @@
 
 ## 课程内容
 
-一共设计12节课，每节课1小时，安排如下：
+一共设计10节课，每节课1小时，安排如下：
 
 1. [试听课（Python介绍、变量、数据类型）](https://github.com/Lynn-Luyp/Python-Tutorial/blob/main/Lesson1.ipynb)
 2. [运算符&列表&元组](https://github.com/Lynn-Luyp/Python-Tutorial/blob/main/Lesson2.ipynb)
 3. 条件与循环 if-else
 4. 字典&集合
-5. 习题课
-6. 用户输入和while循环
-7. 函数
-8. 面向对象基础 类
-9. 文件和异常
-10. 习题课
-11. numpy / pandas
-12. matplotlib 数据可视化
+5. 用户输入和while循环
+6. 函数
+7. 面向对象基础 类
+8. 文件和异常
+9. numpy / pandas
+10. matplotlib 数据可视化
+
+## 课程作业
+每节课的作业见链接 [Practices](https://github.com/Lynn-Luyp/Python-Tutorial/tree/main/Practices)
 
 ## 课程安排
 
