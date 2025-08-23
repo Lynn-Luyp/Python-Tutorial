@@ -17,7 +17,8 @@
 
 3. 每节课的课件会上传到Github，从Github下载后，在Jupyter Notebook上查看和打开
 
-
+## 课程的Markdown讲义
+[Notion讲义](https://www.notion.so/24ede408681b80bab7cfefcb6f5f99e7?source=copy_link)
 
 ## 课程内容
 
@@ -35,6 +36,7 @@
 10. matplotlib 数据可视化
 
 ## 课程作业
+
 每节课的作业见链接 [Practices](https://github.com/Lynn-Luyp/Python-Tutorial/tree/main/Practices)
 
 ## 课程安排
