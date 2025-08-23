@@ -24,7 +24,7 @@
 一共设计12节课，每节课1小时，安排如下：
 
 1. [试听课（Python介绍、变量、数据类型）](https://github.com/Lynn-Luyp/Python-Tutorial/blob/main/Lesson1.ipynb)
-2. 运算符&列表&元组
+2. [运算符&列表&元组](https://github.com/Lynn-Luyp/Python-Tutorial/blob/main/Lesson2.ipynb)
 3. 条件与循环 if-else
 4. 字典&集合
 5. 习题课
